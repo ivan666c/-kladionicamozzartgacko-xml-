@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kladionica imeKladionice="Mozzart" brojTelefona="065454333" adresa="Mese Selimovica 3">
+    <tiket>
+        <tiket id="242589248">
+        <radnik id="34634">
+        <tiketIzdaoRadnik ime ="Jelena Markovic">
+        <odigranaKombinacija>
+                <par id="2222">
+                <pobjeda1>1.25</pobjeda1>
+                <par id="3333">
+                <pobjeda1>1.80</pobjeda1>
+        <vrijednostUplate>12</vrijednostUplate>
+        <dobitakTiketa>30.5</dobitakTiketa>
+        <pdv>10</pdv>
+        <dobitakSaPdv>27.45</dobitakSaPdv>
+        <tiketProsao>false</tiketProsao>
+    </tiket>
+</kladionica>
