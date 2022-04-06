@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kladionica imeKladionice="Mozzart" brojTelefona="065454333" adresa="Mese Selimovica 3">
+    <tiket>
+        <tiket id="242589248">
+        <radnik id="34634">
+        <tiketIzdaoRadnik ime ="Jelena Markovic">
+        <listaParovaNaTiketu>
+            <par>
+            <par id ="2222">
+            <tim>
+            <imeTima>Bajern Minhen</imeTima>
+            <imeTima>Union Berlin</imeTima>
+            <kvote>
+            <pobjedaBajernMinhenaKvota>1.25</pobjedaBajernMinhenaKvota>
+            <nerijesenoKvota>6.50</x>
+            <pobjedaUnionBerlinaKvota>12.50</pobjeda2>
+            </kvote>
+            </tim>
+            </par>
+            <par>
+            <par id="3333">
+            <tim>
+            <imeTima>Real Madrid</imeTima>
+            <tim>Barcelona</tim>
+            <kvote>
+            <pobjedaRealMadridaKvota>1.80</pobjeda1>
+            <nerijesenoKvota>3.80</nerijesenoKvota>
+            <pobjedaBarceloneKvota>7.00</pobjeda2>
+            </kvote>
+            </tim>
+            </par>
+            <odigranaKombinacija>
+                <par id="2222">
+                <pobjedaBajernMinhenaKvota>1.25</pobjedaBajernMinhenaKvota>
+                <par id="3333">
+                <pobjedaRealMadridaKvota>1.80</pobjedaRealMadridaKvota>
+            </odigranaKombinacija>
+        </listaParovaNaTiketu>
+    </tiket>
+</kladionica>
+            
